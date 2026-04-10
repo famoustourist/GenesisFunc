@@ -8,7 +8,7 @@ This repository contains the source code for the paper:
 ## Overview
 In this paper, we propose a multi-agent automated data production pipeline for generating tool-calling training data.
 
-<img src="[https://github.com/famoustourist/GenesisFunc/blob/main/GenesisFunc.jpg](https://github.com/famoustourist/GenesisFunc/blob/main/GenesisFunc.png)" width=80%>
+<img src="https://github.com/famoustourist/GenesisFunc/blob/main/GenesisFunc.png" width=80%>
 
 ## Data
 The relevant data is saved in the corresponding JSON files:
